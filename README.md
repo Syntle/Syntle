@@ -1,5 +1,5 @@
 <h2 align="center">Hello! I'm Syntle</h2>
-<h2 align="center">A passionate, quick learning, self-taught software engineer who strives to build robust and efficient applications.</h2>
+<h2 align="center">I am a passionate, versatile, self-taught software engineer who strives to build robust and efficient applications.</h2>
 
 <img width="50%" align="right" src="https://github-readme-stats.syntle.vercel.app/api?username=syntle&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
 <img width="50%" align="right" src="https://github-readme-stats.syntle.vercel.app/api/top-langs/?username=syntle&layout=compact&theme=dark&hide_border=true" />
